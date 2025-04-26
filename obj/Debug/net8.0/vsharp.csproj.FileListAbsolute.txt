@@ -1,0 +1,15 @@
+/home/ignacy/Dokumenty/Projects/BRSharp/bin/Debug/net8.0/vsharp
+/home/ignacy/Dokumenty/Projects/BRSharp/bin/Debug/net8.0/vsharp.deps.json
+/home/ignacy/Dokumenty/Projects/BRSharp/bin/Debug/net8.0/vsharp.runtimeconfig.json
+/home/ignacy/Dokumenty/Projects/BRSharp/bin/Debug/net8.0/vsharp.dll
+/home/ignacy/Dokumenty/Projects/BRSharp/bin/Debug/net8.0/vsharp.pdb
+/home/ignacy/Dokumenty/Projects/BRSharp/obj/Debug/net8.0/vsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ignacy/Dokumenty/Projects/BRSharp/obj/Debug/net8.0/vsharp.AssemblyInfoInputs.cache
+/home/ignacy/Dokumenty/Projects/BRSharp/obj/Debug/net8.0/vsharp.AssemblyInfo.cs
+/home/ignacy/Dokumenty/Projects/BRSharp/obj/Debug/net8.0/vsharp.csproj.CoreCompileInputs.cache
+/home/ignacy/Dokumenty/Projects/BRSharp/obj/Debug/net8.0/vsharp.sourcelink.json
+/home/ignacy/Dokumenty/Projects/BRSharp/obj/Debug/net8.0/vsharp.dll
+/home/ignacy/Dokumenty/Projects/BRSharp/obj/Debug/net8.0/refint/vsharp.dll
+/home/ignacy/Dokumenty/Projects/BRSharp/obj/Debug/net8.0/vsharp.pdb
+/home/ignacy/Dokumenty/Projects/BRSharp/obj/Debug/net8.0/vsharp.genruntimeconfig.cache
+/home/ignacy/Dokumenty/Projects/BRSharp/obj/Debug/net8.0/ref/vsharp.dll

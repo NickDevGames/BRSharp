@@ -4,14 +4,14 @@ namespace VSharpLib
     using VSharp;
 
     [Module]
-    class io
+    class vibecheck
     {
         /// <summary>
         /// Prints the specified object followed by a new line.
         /// If the object is null, it prints "null".
         /// </summary>
         /// <param name="arg">The object to print.</param>
-        public void println(object? arg)
+        public void yapln(object? arg)
         {
             Console.WriteLine(arg?.ToString() ?? "null");
         }
@@ -20,7 +20,7 @@ namespace VSharpLib
         /// If the object is null, it prints "null".
         /// </summary>
         /// <param name="arg">THe object to print</param>
-        public void print(object? arg)
+        public void yap(object? arg)
         {
             Console.Write(arg?.ToString() ?? "null");
         }
